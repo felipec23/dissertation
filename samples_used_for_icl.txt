@@ -1,0 +1,54 @@
+Input: In this study, hydrates formed under temperature gradient of 0.012, 0.020 and 0.026 °C/mm in a 2 L reactor, decomposed by long depressurization to 1.0 MPa at constant exhaust rate from 0.11 to 1.07 ln/min
+Output: property_name|property_value|property_unit 
+temperature gradient|0.012|°C/mm 
+temperature gradient|0.020|°C/mm 
+temperature gradient|0.026|°C/mm 
+reactor volume|2|L 
+depressurization pressure|1.0|MPa 
+exhaust rate|0.11|ln/min 
+exhaust rate|1.07|ln/min
+
+Input: The optimized adsorption conditions for MB dye removal using PAA were found to be 1024 mg g-1 at pH 8.8 at 120 min contact time and 25 °C temperature
+Output: property_name|property_value|property_unit 
+adsorption capacity|1024|mg g^-1 
+pH|8.8| 
+contact time|120|min 
+temperature|25|°C
+
+Input: Furthermore, the two most potent antifungal alkaloids, berberine (13) completely inhibited effect on gray mold of table grape at 512 mg L−1, while jatrorrhizine (18) exhibited an inhibition rate > 90% on grape rot at the same concentration, with lower cytotoxicity and residue than chlorothalonil, which suggested that ingredients of M.fortunei might be a low-toxicity, low-residue, eco-friendly botanical fungicide against postharvest pathogens
+Output: property_name|property_value|property_unit
+concentration of berberine|512|mg L^−1
+concentration of jatrorrhizine|512|mg L^−1
+
+Input: This best-practice is the big-M reformulation of the Karush–Kuhn–Tucker (KKT) conditions of the lower-level problem—an approach that has been shown to be highly problematic by Pineda and Morales (2019)
+Output: property_name|property_value|property_unit
+
+Input: Based on the ResNet50 network architecture, after filling the image into a square, the recognition accuracy has been improved by 0.30%, 0.21%, and 0.43%, respectively
+Output: property_name|property_value|property_unit 
+recognition accuracy improvement|0.30|% 
+recognition accuracy improvement|0.21|% 
+recognition accuracy improvement|0.43|%
+
+Input: Meanwhile the Yongkang plant produces 15,500 CMD of reclaimed water for semiconductor and TFT-LCD manufacturing processes at an overall operation and maintenance costs of 25.8 NT dollars m−3, which is due to low urea and boron limits requested by the user
+Output: property_name|property_value|property_unit
+reclaimed water produced|15500|CMD
+operation and maintenance cost|25.8|NT dollars m^−3
+
+Input: At the 400 mg/kg dose, the mucilage significantly lengthened the cough incubation period and reduced the cough frequency in mice
+Output: property_name|property_value|property_unit
+dose|400|mg/kg
+
+Input: The study was conducted by using Partial Least Square to analyze the behavior of the highest leadership of the Child Welfare Institution (CWI) of the Ministry of Social Affairs of the Republic of Indonesia, with a sample of 185 accredited institutions throughout Indonesia
+Output: property_name|property_value|property_unit
+sample size|185|institutions
+
+Input: Further, the pilot plant can achieve below 2.5 mol% CO2 in the methane product at a specific reboiler duty of 3.74 GJ per ton of CO2
+Output: property_name|property_value|property_unit
+CO2 concentration|below 2.5|mol%
+specific reboiler duty|3.74|GJ/ton CO2
+
+Input: The biochar has only up to 4-ring polyaromatic compounds and a residence time longer than 1 h at 500 °C is necessary to improve carbonization
+Output: property_name|property_value|property_unit
+number of polyaromatic compounds|4|
+residence time|1|hour
+temperature|500|°C
